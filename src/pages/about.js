@@ -41,9 +41,11 @@ const About = ({ transition }) => {
         <p>
           When not in front of a computer screen, I can occasionally be found
           playing fetch with my cat, volunteering at the local SPCA, reading on
-          a train or pretending I&apos;m in an adventure RPG. I am currently
-          looking for work opportunities as a developer. If you know of a cool
-          place that&apos;s hiring, please feel free to get in contact!
+          a train or pretending I&apos;m in an adventure RPG. Formative
+          favorites include Buffy the Vampire Slayer, Nancy Drew and Critical
+          Role. I am currently looking for work opportunities as a developer. If
+          you know of a cool place that&apos;s hiring, please feel free to get
+          in contact!
         </p>
       </Box>
     </Box>

@@ -15,7 +15,9 @@ const Template = ({ data }) => {
         align="center"
       >
         <h1>{post.frontmatter.title}</h1>
-        <h5>Written by {post.frontmatter.author.id}</h5>
+        <h5>
+          Written by {post.frontmatter.author.id} on {post.frontmatter.date}
+        </h5>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </Box>
     </Box>

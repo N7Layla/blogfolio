@@ -15,6 +15,15 @@ const listStyle = css`
   }
 `;
 
+const title = css`
+  padding: 0.5em;
+  background-color: rgba(103,178,111,0.2);
+  box-shadow: 1px 1px 2px white, 0 0 5px #67b26f;
+  border-radius: 20px;
+  margin: 0.5em;
+  }
+`;
+
 const BlogIndex = ({ data, transition }) => {
   const { edges: posts } = data.allMarkdownRemark;
   return (
@@ -34,8 +43,9 @@ const BlogIndex = ({ data, transition }) => {
               return (
                 <li key={post.id}>
                   <Link to={post.fields.slug}>
-                    <h3>{post.frontmatter.title}</h3>
+                    <h3 className={title}>{post.frontmatter.title}</h3>
                   </Link>
+                  <p>{post.frontmatter.date}</p>
                   <p>{post.excerpt}</p>
                 </li>
               );
