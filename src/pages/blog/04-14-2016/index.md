@@ -2,7 +2,7 @@
 title: (Game Review) Lingering Glances and Country Dances in Visual Novel App ‘Regency Love’
 author: Layla
 date: 2016-04-14
-tags: video game, review
+tags: Video Game, Review
 ---
 
 So about two weeks or so ago I stumbled upon a little gem of an app called Regency Love. After a while of self debate, I decided to give it a go for a few reasons. First, I always love a Regency romance. I had played another game called Matches & Matrimony, inspired from the works of Jane Austen, that captured my heart but in comparison now seems a bit formulaic. Also, I figured I could use something easy to play during breaks at work and in the waiting room for appointments. Little did I know the game would end up occupying so much more of my time, because it is just that delightful. So much so, I’ve decided to make it my first review and real post here at the new blog.
@@ -11,6 +11,7 @@ In Regency Love, you play the role of a young lady coming to terms with life aft
 
 All that and I haven’t even mentioned the most eligible gentlemen of town, Miss Fairchild’s potential suitors and romantic interests. Mr. Ashcroft is a doting and protective eldest brother who seems to have high value on family and kindness. Mr. Curtis is a middle aged bachelor who holds esteem for the written word and not much for social gatherings. Mr. Graham is a charming militia man you can pursue with an additional purchase.
 
+![Mr. Curtis Mr. Graham and Mr. Ashcroft](regencylove.png "RegencyLove")
 Mr. Curtis, Mr. Graham and Mr. Ashcroft (left to right)
 
 I should note that at the time of writing this, I have only played the path for Mr. Ashcroft. But I have no doubt this is the first of many as I already have plans for an independent lady playthrough and getting to know Mr. Curtis a lot more. The game definitely has replay value for these reasons and also the fun of getting to shape your protagonist to see how she turns out each time. On your screen between chapters, you will see which traits have come to define her and often I didn’t even realize the choices I’d made in personality! I found myself struggling many times to decide between the response I felt was best for polite society and the one I most wanted to see everyone’s reactions to. Next time, I will definitely let my Miss Fairchild be a bit more wild and face whatever consequences come my way. That was another highlight of this experience, that it really feels like you’ve been Outlander‘d back into the 1800s so you better be ready to discuss fortune, politics and feminism of the time.

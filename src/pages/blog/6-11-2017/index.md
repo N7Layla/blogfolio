@@ -2,7 +2,7 @@
 title: (Game Review) The Infectious Madness of Doctor Dekker Stays With You
 author: Layla
 date: 2017-06-11
-tags: video game, review
+tags: Video Game, Review
 ---
 
 Have you ever read a murder mystery and wish you could ask the suspects so many questions yourself? Or did you ever think to yourself, “You know what would make the game Clue so much better? Time travel and zombies.” If you answered yes to either of these or you just like a compelling mystery then you would absolutely be interested in newly released game The Infectious Madness of Doctor Dekker. Developed by D’Avekki Studios, the game is described as a “horror themed murder mystery FMV game where you play as a therapist questioning patients” but this is kind of an understatement for the actual experience.
@@ -17,3 +17,5 @@ What really shines in this game are the characters. If you’re anything like me
 I finished my first playthrough of the game after a few evenings of intense questioning, but by the following day I was ready to start another. One of the features I appreciate the most about the game is that the killer is randomly assigned each time you play. So your first game won’t be the same as your second, or your friend’s. If I had any real criticisms I would say that the ending was perhaps a bit more open for interpretation or unclear than I’d been hoping, but the more I think about it the more this fits right at home with the game as a whole. It also has me hoping that there might be more in store for Doctor Dekker’s patients – DLC? Sequel? I’m for it.
 
 Overall I highly recommend The Infectious Madness of Doctor Dekker to anyone who doesn’t mind less pew pew gameplay, more watching a story unfold and a lot of “what did they just say?!” Check it out on Steam here and watch the trailer below!
+
+`youtube:https://www.youtube.com/watch?v=V2hrjnRuWCI`
