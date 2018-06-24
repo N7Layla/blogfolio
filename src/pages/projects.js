@@ -30,20 +30,6 @@ const Projects = ({ transition }) => (
       align="center"
     >
       <h1>Projects </h1>
-      <h2>Global Kitchen</h2>
-      <p>
-        Prototype for a restaurant simulator game celebrating international
-        cuisines.
-      </p>
-      <p className={linkage}>
-        <a href="https://github.com/GH-FoodNetwork/Global-Kitchen">
-          <i className="fa fa-code" />
-        </a>{' '}
-        <a href="http://global-kitchen.herokuapp.com/">
-          <i className="fa fa-eye" />
-        </a>
-      </p>
-      <div className={built}>Pixi.js</div> <div className={built}>Redux</div>
       <h2>ARTmood</h2>
       <p>
         Web app providing art by indicated mood, using the Harvard Art Museums
@@ -74,7 +60,7 @@ const Projects = ({ transition }) => (
         </a>
       </p>
       <div className={built}>Vue.js</div> <div className={built}>HTML</div>
-      <h2>Dunder Mifflin</h2>
+      {/*<h2>Dunder Mifflin</h2>
       <p>
         A mock e-commerce website taking inspiration from a certain television
         series.
@@ -91,7 +77,7 @@ const Projects = ({ transition }) => (
       <div className={built}>React-Redux</div>{' '}
       <div className={built}>Material-UI</div>{' '}
       <div className={built}>Express.js</div>{' '}
-      <div className={built}>Sequelize</div>
+      <div className={built}>Sequelize</div>*/}
     </Box>
   </Box>
 );

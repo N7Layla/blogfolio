@@ -155,9 +155,6 @@ class Navigation extends Component {
                 <Link to="/projects">Projects</Link>
               </li>
               <li>
-                <Link to="/experience">Experience</Link>
-              </li>
-              <li>
                 <Link to="/contact">Contact</Link>
               </li>
             </div>

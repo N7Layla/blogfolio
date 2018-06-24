@@ -26,9 +26,8 @@ const About = ({ transition }) => {
           self-proclaimed Hufflepuff meets Ravenclaw.
         </h4>
         <p>
-          A recent graduate of Fullstack Academy&apos;s Grace Hopper Program, I
-          came into the computer science realm from a non-technical background
-          that often allows me to see code from a fresh perspective. Upon
+          A graduate of Fullstack Academy&apos;s Grace Hopper Program, I
+          came into the development field from a non-technical background. Upon
           completion of my Bachelor&apos;s degree in Art History and Classical
           Civilization from University of Richmond, I spent years working in
           historic tourism and later experienced the rollercoaster that is
@@ -41,11 +40,9 @@ const About = ({ transition }) => {
         <p>
           When not in front of a computer screen, I can occasionally be found
           playing fetch with my cat, volunteering at the local SPCA, reading on
-          a train or pretending I&apos;m in an adventure RPG. Formative
-          favorites include Buffy the Vampire Slayer, Nancy Drew and Critical
-          Role. I am currently looking for work opportunities as a developer. If
-          you know of a cool place that&apos;s hiring, please feel free to get
-          in contact!
+          a beach or pretending I&apos;m in an adventure RPG. Formative
+          favorites include Buffy the Vampire Slayer, Mass Effect and Critical
+          Role. I am currently a Solutions Developer at <a href="http://www.kuv.io/">Kuvio Creative</a> where I get to be part of a truly international team making change.
         </p>
       </Box>
     </Box>
